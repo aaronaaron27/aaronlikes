@@ -1,2 +1,0 @@
-# aaronlikes
-my favorite projects
